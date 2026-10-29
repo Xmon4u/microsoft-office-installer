@@ -1,0 +1,18 @@
+# Office Deployment binaries (automatically fetched by install.bat)
+setup.exe
+odt_temp.exe
+*.exe
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE & Editor folders
+.vscode/
+.idea/
